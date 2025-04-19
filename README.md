@@ -1,1 +1,1 @@
-# EDA-projects
+# Explorative Data Analysis projects
