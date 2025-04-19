@@ -9,3 +9,13 @@ This repository contains a collection of exploratory data analysis (EDA) project
 ### Amazon Prime Video Analysis
 
 This project is based on data related to movies and TV series available on Amazon Prime Video up to 2021. The analysis began with basic exploratory steps to understand the dataset’s structure, identify its attributes, and determine the total number of available titles. It then progressed to more advanced analyses, such as identifying the countries with the highest number of films and calculating the average duration of all content. Finally, a word cloud was generated from the movie titles, and a temporal visualization was created to show the evolution of the most popular genres in the catalog.
+
+The dataset is available on Kaggle: [Amazon Prime Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
+
+## Author
+
+[Daniele Notarangelo](https://github.com/danielenotarangelo)
+
+## License
+
+This project is licensed under the MIT License.
